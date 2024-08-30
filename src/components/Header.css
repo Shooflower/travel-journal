@@ -1,0 +1,19 @@
+.header { 
+    color: black;
+    font-size: 14px;
+}
+
+nav {
+    height: 55px;
+    /* width: 550px; */
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    
+}
+
+.header--icon {
+    width: 25px;
+}

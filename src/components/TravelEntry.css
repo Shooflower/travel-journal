@@ -1,0 +1,52 @@
+.travelentry--photo {
+    width: 125px;
+    height: 170px;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.travelentry--icon {
+    width: 9px;
+    padding-right: 5px;
+}
+
+.travelentry {
+    display: flex;
+    align-items: center;
+    padding: 25px;
+}
+
+.travelentry--details {
+    text-align: left;
+    padding: 10px;
+}
+
+.travelentry--link {
+    color: #918E9B;
+    padding-left:10px;
+    padding-right: 10px;
+    text-decoration: underline;
+}
+
+.travelentry--country {
+    letter-spacing: .17em;
+    
+}
+
+.travelentry--country, .travelentry--link, .travelentry--dates, .travelentry--description {
+    font-size: 10px;
+}
+
+.travelentry--description {
+    inline-size: 400px;
+}
+
+.travelentry--destination {
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+hr {
+    opacity: .25;
+    width: 90%;
+}
