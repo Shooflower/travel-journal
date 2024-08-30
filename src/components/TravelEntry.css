@@ -34,7 +34,7 @@
 }
 
 .travelentry--country, .travelentry--link, .travelentry--dates, .travelentry--description {
-    font-size: 10px;
+    font-size: .7em;
 }
 
 .travelentry--description {
@@ -42,7 +42,7 @@
 }
 
 .travelentry--destination {
-    font-size: 25px;
+    font-size: 1.5em;
     margin-top: 0px;
 }
 
